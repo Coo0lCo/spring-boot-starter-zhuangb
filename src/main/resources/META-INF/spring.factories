@@ -1,0 +1,3 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+scbc.lyj.zb.starter.config.ZbAutoConfiguration
